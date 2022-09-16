@@ -1,1 +1,0 @@
-This is a sample README for the first commit
